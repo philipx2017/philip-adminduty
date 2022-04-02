@@ -4,6 +4,7 @@ Hello guys!
 This is my first script, i hope you enjoy! :)
 
 This is a simple Admin duty script for QBCore Framework only!
+Working with the newer QBCore Framework!
 
 Feel free to edit and share the script with others!
 
