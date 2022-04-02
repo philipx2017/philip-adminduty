@@ -8,6 +8,9 @@ Working with the newer QBCore Framework!
 
 Feel free to edit and share the script with others!
 
+# PREVIEW
+https://streamable.com/4zy0u4
+
 # USAGE
 
 /adminduty to on/off admin duty
