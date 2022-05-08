@@ -25,5 +25,6 @@ https://streamable.com/4zy0u4
 # NOTE
 
 If you want to change the logo above the admin head, go to the stream folder and open the logo.ytd. Then change to logo inside of it.
+
 *WARNING*
 If you change the .png name you should the change to logo name in config.lua too
