@@ -13,13 +13,14 @@ https://streamable.com/4zy0u4
 
 # USAGE
 
-/adminduty to on/off admin duty
+/duty to on/off admin duty
 /atag to toggle on/off the admin tag above the head
 
 # UPDATE V1.0.0
 
 + Completly reworked the script
 + Added a admin tag above the admin head. (Can be enabled with /atag command)
++ Changed command /adminduty to /duty
 + Added config.lua where you can change everything
 
 # NOTE
