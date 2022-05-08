@@ -14,8 +14,16 @@ https://streamable.com/4zy0u4
 # USAGE
 
 /adminduty to on/off admin duty
+/atag to toggle on/off the admin tag above the head
 
-# HOW TO CHANGE ADMINPED
+# UPDATE V1.0.0
 
-You can change the admin ped in the client.lua
++ Completly reworked the script
++ Added a admin tag above the admin head. (Can be enabled with /atag command)
++ Added config.lua where you can change everything
 
+# NOTE
+
+If you want to change the logo above the admin head, go to the stream folder and open the logo.ytd. Then change to logo inside of it.
+*WARNING*
+If you change the .png name you should the change to logo name in config.lua too
