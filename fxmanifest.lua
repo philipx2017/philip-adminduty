@@ -1,14 +1,19 @@
 fx_version 'cerulean'
+game 'gta5'
 lua54 'yes'
-game 'gta5' 
 
 description '[QB] philip-adminduty'
-version '1.0.0'
+version '2.0.0'
 author 'Philip#1790'
 
+shared_scripts {
+    'config.lua'
+}
 
-client_script 'client.lua'
+client_scripts {
+    'client.lua'
+}
 
-server_script 'server.lua'
-
-shared_script 'config.lua'
+server_scripts {
+    'server.lua'
+}
