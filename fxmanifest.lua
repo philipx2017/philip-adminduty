@@ -3,8 +3,8 @@ game 'gta5'
 lua54 'yes'
 
 description '[QB] philip-adminduty'
-version '2.0.0'
-author 'Philip#1790'
+version '2.0'
+author 'Philip'
 
 shared_scripts {
     'config.lua'
@@ -16,4 +16,14 @@ client_scripts {
 
 server_scripts {
     'server.lua'
+}
+
+ui_page 'html/index.html'
+
+files {
+    'html/index.html',
+    'html/style.css',
+    'html/app.js',
+
+    'images/logo.png'
 }
